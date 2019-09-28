@@ -1,4 +1,4 @@
-m = 9.73 Znorm = 0.64
+m = 9.75 Znorm = 0.64
 
 Xnorm = 0.14 Ynorm = 9.79 Znorm = 0.63
 
