@@ -1,210 +1,419 @@
-.00 Yraw = 11584.00 Zraw = 4712.00
- Xnorm = 10.38 Ynorm = 8.41 Znorm = 4.28
-Initialize MPU6050
-
- * Sleep Mode:            Disabled
- * Clock Source:          PLL with X axis gyroscope reference
- * Accelerometer:         +/- 2 g
- * Accelerometer offsets: -1508 / -835 / 1388
-
- Xraw = 8936.00 Yraw = 18132.00 Zraw = 10784.00
- Xnorm = 5.26 Ynorm = 10.84 Znorm = 6.95
- Xraw = 12548.00 Yraw = 20964.00 Zraw = 16964.00
- Xnorm = 8.20 Ynorm = 11.92 Znorm = 10.06
- Xraw = 8600.00 Yraw = 12916.00 Zraw = 10204.00
- Xnorm = 5.14 Ynorm = 7.73 Znorm = 6.10
- Xraw = 10540.00 Yraw = 12716.00 Zraw = 16280.00
- Xnorm = 6.93 Ynorm = 8.73 Znorm = 10.18
- Xraw = 10792.00 Yraw = 10724.00 Zraw = 13540.00
- Xnorm = 5.76 Ynorm = 7.10 Znorm = 9.98
- Xraw = 7440.00 Yraw = 10168.00 Zraw = 12888.00
- Xnorm = 4.28 Ynorm = 6.48 Znorm = 7.79
- Xraw = 7148.00 Yraw = 10576.00 Zraw = 12032.00
- Xnorm = 4.31 Ynorm = 6.36 Znorm = 7.56
- Xraw = 7460.00 Yraw = 11020.00 Zraw = 12024.00
- Xnorm = 4.56 Ynorm = 6.56 Znorm = 7.01
- Xraw = 7700.00 Yraw = 10440.00 Zraw = 12864.00
- Xnorm = 4.20 Ynorm = 6.28 Znorm = 7.75
- Xraw = 7292.00 Yraw = 10128.00 Zraw = 14040.00
- Xnorm = 4.11 Ynorm = 6.19 Znorm = 8.65
- Xraw = 6208.00 Yraw = 10408.00 Zraw = 15008.00
- Xnorm = 3.60 Ynorm = 6.17 Znorm = 9.04
- Xraw = 6236.00 Yraw = 9964.00 Zraw = 14768.00
- Xnorm = 3.76 Ynorm = 5.90 Znorm = 8.81
- Xraw = 5936.00 Yraw = 10480.00 Zraw = 14384.00
- Xnorm = 3.59 Ynorm = 6.24 Znorm = 8.31
- Xraw = 5612.00 Yraw = 11484.00 Zraw = 12840.00
- Xnorm = 3.68 Ynorm = 6.92 Znorm = 8.22
- Xraw = 4476.00 Yraw = 12580.00 Zraw = 13664.00
- Xnorm = 1.96 Ynorm = 7.24 Znorm = 7.54
- Xraw = 7328.00 Yraw = 12300.00 Zraw = 10060.00
- Xnorm = 3.71 Ynorm = 7.32 Znorm = 6.53
- Xraw = 9148.00 Yraw = 14052.00 Zraw = 11404.00
- Xnorm = 5.02 Ynorm = 7.97 Znorm = 7.39
- Xraw = 8540.00 Yraw = 11964.00 Zraw = 11336.00
- Xnorm = 4.98 Ynorm = 7.31 Znorm = 6.79
- Xraw = 8512.00 Yraw = 12492.00 Zraw = 6836.00
- Xnorm = 5.18 Ynorm = 7.49 Znorm = 4.02
- Xraw = 9480.00 Yraw = 13748.00 Zraw = 6752.00
- Xnorm = 5.16 Ynorm = 8.47 Znorm = 4.06
- Xraw = 10708.00 Yraw = 15180.00 Zraw = 6452.00
- Xnorm = 5.75 Ynorm = 8.84 Znorm = 3.36
- Xraw = 9776.00 Yraw = 15628.00 Zraw = 4976.00
- Xnorm = 6.24 Ynorm = 8.87 Znorm = 3.78
- Xraw = 10512.00 Yraw = 16500.00 Zraw = 6148.00
- Xnorm = 6.29 Ynorm = 9.87 Znorm = 3.68
- Xraw = 9364.00 Yraw = 16456.00 Zraw = 4768.00
- Xnorm = 5.78 Ynorm = 9.75 Znorm = 1.32
- Xraw = 10976.00 Yraw = 12556.00 Zraw = 2020.00
- Xnorm = 6.45 Ynorm = 7.74 Znorm = 1.85
- Xraw = 10940.00 Yraw = 13500.00 Zraw = 3200.00
- Xnorm = 7.25 Ynorm = 7.83 Znorm = 0.30
- Xraw = 10872.00 Yraw = 15948.00 Zraw = -1124.00
- Xnorm = 6.53 Ynorm = 9.50 Znorm = -0.46
- Xraw = 14552.00 Yraw = 14512.00 Zraw = 1300.00
- Xnorm = 8.90 Ynorm = 8.47 Znorm = 1.11
- Xraw = 13408.00 Yraw = 16188.00 Zraw = 1672.00
- Xnorm = 7.05 Ynorm = 9.75 Znorm = 0.80
- Xraw = 11388.00 Yraw = 14892.00 Zraw = 936.00
- Xnorm = 6.81 Ynorm = 8.91 Znorm = 0.56
- Xraw = 8740.00 Yraw = 12392.00 Zraw = -2188.00
- Xnorm = 5.24 Ynorm = 7.36 Znorm = -1.42
- Xraw = 10756.00 Yraw = 8380.00 Zraw = -3964.00
- Xnorm = 6.53 Ynorm = 5.40 Znorm = -2.40
- Xraw = 10840.00 Yraw = 8308.00 Zraw = -5960.00
- Xnorm = 6.79 Ynorm = 4.77 Znorm = -3.56
- Xraw = 9400.00 Yraw = 8156.00 Zraw = -3540.00
- Xnorm = 5.73 Ynorm = 4.67 Znorm = -1.79
- Xraw = 6920.00 Yraw = 9340.00 Zraw = -4328.00
- Xnorm = 3.91 Ynorm = 5.50 Znorm = -2.90
- Xraw = 5780.00 Yraw = 7508.00 Zraw = -7300.00
- Xnorm = 3.48 Ynorm = 4.40 Znorm = -4.52
- Xraw = 6312.00 Yraw = 6024.00 Zraw = -8604.00
- Xnorm = 3.64 Ynorm = 3.72 Znorm = -5.24
- Xraw = 7096.00 Yraw = 5184.00 Zraw = -8024.00
- Xnorm = 4.29 Ynorm = 3.10 Znorm = -4.77
- Xraw = 7824.00 Yraw = 4880.00 Zraw = -8172.00
- Xnorm = 4.71 Ynorm = 2.90 Znorm = -4.91
- Xraw = 8188.00 Yraw = 5696.00 Zraw = -8424.00
- Xnorm = 4.73 Ynorm = 3.43 Znorm = -5.39
- Xraw = 7712.00 Yraw = 6220.00 Zraw = -7340.00
- Xnorm = 4.63 Ynorm = 3.73 Znorm = -4.37
- Xraw = 6960.00 Yraw = 7984.00 Zraw = -9160.00
- Xnorm = 4.56 Ynorm = 4.06 Znorm = -5.31
- Xraw = 8512.00 Yraw = 6176.00 Zraw = -6940.00
- Xnorm = 4.91 Ynorm = 3.60 Znorm = -3.96
- Xraw = 8780.00 Yraw = 7128.00 Zraw = -5372.00
- Xnorm = 5.18 Ynorm = 4.11 Znorm = -3.26
- Xraw = 8176.00 Yraw = 6716.00 Zraw = -6404.00
- Xnorm = 4.97 Ynorm = 3.91 Znorm = -3.92
- Xraw = 8168.00 Yraw = 7608.00 Zraw = -5064.00
- Xnorm = 4.77 Ynorm = 4.55 Znorm = -2.93
- Xraw = 8520.00 Yraw = 9148.00 Zraw = -1864.00
- Xnorm = 5.17 Ynorm = 5.52 Znorm = -1.15
- Xraw = 9160.00 Yraw = 9272.00 Zraw = 236.00
- Xnorm = 5.53 Ynorm = 5.51 Znorm = 0.16
- Xraw = 10524.00 Yraw = 8924.00 Zraw = 1232.00
- Xnorm = 6.56 Ynorm = 5.24 Znorm = 0.75
- Xraw = 11620.00 Yraw = 8520.00 Zraw = -2116.00
- Xnorm = 6.89 Ynorm = 5.16 Znorm = -1.19
- Xraw = 14724.00 Yraw = 12556.00 Zraw = 480.00
- Xnorm = 8.70 Ynorm = 7.68 Znorm = 0.57
- Xraw = 10592.00 Yraw = 16212.00 Zraw = -692.00
- Xnorm = 6.30 Ynorm = 9.70 Znorm = 0.08
- Xraw = 5344.00 Yraw = 17880.00 Zraw = -1436.00
- Xnorm = 2.84 Ynorm = 11.02 Znorm = -0.94
- Xraw = 8596.00 Yraw = 17976.00 Zraw = 3112.00
- Xnorm = 5.23 Ynorm = 10.62 Znorm = 2.06
- Xraw = 8088.00 Yraw = 17424.00 Zraw = 5416.00
- Xnorm = 4.66 Ynorm = 10.32 Znorm = 3.42
- Xraw = 7948.00 Yraw = 16080.00 Zraw = 2556.00
- Xnorm = 3.91 Ynorm = 11.21 Znorm = 3.78
- Xraw = 9268.00 Yraw = 19868.00 Zraw = 8672.00
- Xnorm = 5.91 Ynorm = 11.73 Znorm = 5.32
- Xraw = 3904.00 Yraw = 21376.00 Zraw = 9844.00
- Xnorm = 3.19 Ynorm = 12.11 Znorm = 3.99
- Xraw = 7584.00 Yraw = 20348.00 Zraw = 9128.00
- Xnorm = 3.97 Ynorm = 11.89 Znorm = 5.40
- Xraw = 6180.00 Yraw = 17636.00 Zraw = 7068.00
- Xnorm = 3.70 Ynorm = 10.55 Znorm = 4.23
- Xraw = 8616.00 Yraw = 16704.00 Zraw = 7672.00
- Xnorm = 3.53 Ynorm = 9.58 Znorm = 5.13
- Xraw = 7096.00 Yraw = 12928.00 Zraw = 6736.00
- Xnorm = 4.58 Ynorm = 7.69 Znorm = 3.28
- Xraw = 5820.00 Yraw = 12308.00 Zraw = 5528.00
- Xnorm = 3.45 Ynorm = 7.49 Znorm = 4.57
- Xraw = 7448.00 Yraw = 11840.00 Zraw = 7568.00
- Xnorm = 4.82 Ynorm = 6.92 Znorm = 4.79
- Xraw = 9488.00 Yraw = 11752.00 Zraw = 7896.00
- Xnorm = 5.99 Ynorm = 7.12 Znorm = 4.65
- Xraw = 9316.00 Yraw = 11776.00 Zraw = 6936.00
- Xnorm = 5.52 Ynorm = 7.14 Znorm = 4.31
- Xraw = 8684.00 Yraw = 11792.00 Zraw = 6664.00
- Xnorm = 5.41 Ynorm = 7.11 Znorm = 4.34
- Xraw = 8852.00 Yraw = 11676.00 Zraw = 6736.00
- Xnorm = 5.18 Ynorm = 6.98 Znorm = 3.99
- Xraw = 8348.00 Yraw = 12556.00 Zraw = 6088.00
- Xnorm = 5.03 Ynorm = 7.60 Znorm = 3.54
- Xraw = 8344.00 Yraw = 13392.00 Zraw = 6820.00
- Xnorm = 4.91 Ynorm = 8.08 Znorm = 4.15
- Xraw = 7428.00 Yraw = 14176.00 Zraw = 8456.00
- Xnorm = 4.29 Ynorm = 8.52 Znorm = 4.99
- Xraw = 6312.00 Yraw = 14200.00 Zraw = 9332.00
- Xnorm = 3.83 Ynorm = 8.54 Znorm = 5.48
- Xraw = 6000.00 Yraw = 13732.00 Zraw = 9596.00
- Xnorm = 3.35 Ynorm = 8.05 Znorm = 5.84
- Xraw = 5736.00 Yraw = 12496.00 Zraw = 10068.00
- Xnorm = 3.43 Ynorm = 7.65 Znorm = 6.08
- Xraw = 6412.00 Yraw = 12512.00 Zraw = 10360.00
- Xnorm = 3.73 Ynorm = 7.49 Znorm = 6.11
- Xraw = 6848.00 Yraw = 13568.00 Zraw = 10788.00
- Xnorm = 4.17 Ynorm = 8.25 Znorm = 6.48
- Xraw = 7772.00 Yraw = 14528.00 Zraw = 10656.00
- Xnorm = 4.47 Ynorm = 8.85 Znorm = 5.88
- Xraw = 7372.00 Yraw = 14340.00 Zraw = 10396.00
- Xnorm = 4.38 Ynorm = 8.54 Znorm = 6.30
- Xraw = 7828.00 Yraw = 14364.00 Zraw = 8000.00
- Xnorm = 4.83 Ynorm = 8.11 Znorm = 5.63
- Xraw = 7988.00 Yraw = 13364.00 Zraw = 7776.00
- Xnorm = 5.19 Ynorm = 7.17 Znorm = 5.05
- Xraw = 8224.00 Yraw = 13164.00 Zraw = 5824.00
- Xnorm = 4.88 Ynorm = 7.93 Znorm = 3.42
- Xraw = 9076.00 Yraw = 11964.00 Zraw = 5216.00
- Xnorm = 5.45 Ynorm = 7.13 Znorm = 2.61
- Xraw = 9404.00 Yraw = 12920.00 Zraw = 4468.00
- Xnorm = 5.54 Ynorm = 7.81 Znorm = 2.62
- Xraw = 8964.00 Yraw = 13468.00 Zraw = 4240.00
- Xnorm = 5.51 Ynorm = 8.10 Znorm = 2.49
- Xraw = 9336.00 Yraw = 13588.00 Zraw = 4192.00
- Xnorm = 5.58 Ynorm = 8.13 Znorm = 2.51
- Xraw = 8816.00 Yraw = 13360.00 Zraw = 3144.00
- Xnorm = 6.02 Ynorm = 7.88 Znorm = 2.38
- Xraw = 9544.00 Yraw = 14152.00 Zraw = 3564.00
- Xnorm = 5.87 Ynorm = 7.89 Znorm = 0.96
- Xraw = 10460.00 Yraw = 13672.00 Zraw = 1640.00
- Xnorm = 6.38 Ynorm = 8.21 Znorm = 0.82
- Xraw = 11260.00 Yraw = 13396.00 Zraw = 1232.00
- Xnorm = 6.79 Ynorm = 8.41 Znorm = 1.40
- Xraw = 11568.00 Yraw = 13368.00 Zraw = 1448.00
- Xnorm = 6.77 Ynorm = 7.81 Znorm = 0.53
- Xraw = 11208.00 Yraw = 13536.00 Zraw = 140.00
- Xnorm = 7.14 Ynorm = 8.23 Znorm = 0.30
- Xraw = 11788.00 Yraw = 12380.00 Zraw = -1648.00
- Xnorm = 7.16 Ynorm = 7.58 Znorm = -0.88
- Xraw = 13408.00 Yraw = 12720.00 Zraw = -1952.00
- Xnorm = 7.90 Ynorm = 7.82 Znorm = -1.09
- Xraw = 14700.00 Yraw = 13068.00 Zraw = 380.00
- Xnorm = 9.76 Ynorm = 7.90 Znorm = -0.73
- Xraw = 15356.00 Yraw = 11972.00 Zraw = -200.00
- Xnorm = 9.09 Ynorm = 7.19 Znorm = -0.11
- Xraw = 16096.00 Yraw = 11056.00 Zraw = -2092.00
- Xnorm = 8.53 Ynorm = 6.94 Znorm = -0.61
- Xraw = 16120.00 Yraw = 9752.00 Zraw = -2400.00
- Xnorm = 9.57 Ynorm = 6.48 Znorm = -1.34
- Xraw = 16976.00 Yraw = 8884.00 Zraw = -4728.00
- Xnorm = 10.24 Ynorm = 5.18 Znorm = -2.95
- Xraw = 17652.00 Yraw = 9396.00 Zraw = -3564.00
- Xnorm = 10.74 Ynorm = 5.73 Znorm = -2.45
- Xraw = 17880.00 Yraw = 10024.00 Zraw = 404.00
- Xnorm = 10.81 Ynorm = 6.10 Znorm = 0.31
- Xraw = 15564.00 Yraw = 9156.00 Zraw = -1504.00
+.00 Yraw = 11584.00 Zraw = 4712.00
+
+ Xnorm = 10.38 Ynorm = 8.41 Znorm = 4.28
+
+Initialize MPU6050
+
+
+
+ * Sleep Mode:            Disabled
+
+ * Clock Source:          PLL with X axis gyroscope reference
+
+ * Accelerometer:         +/- 2 g
+
+ * Accelerometer offsets: -1508 / -835 / 1388
+
+
+
+ Xraw = 8936.00 Yraw = 18132.00 Zraw = 10784.00
+
+ Xnorm = 5.26 Ynorm = 10.84 Znorm = 6.95
+
+ Xraw = 12548.00 Yraw = 20964.00 Zraw = 16964.00
+
+ Xnorm = 8.20 Ynorm = 11.92 Znorm = 10.06
+
+ Xraw = 8600.00 Yraw = 12916.00 Zraw = 10204.00
+
+ Xnorm = 5.14 Ynorm = 7.73 Znorm = 6.10
+
+ Xraw = 10540.00 Yraw = 12716.00 Zraw = 16280.00
+
+ Xnorm = 6.93 Ynorm = 8.73 Znorm = 10.18
+
+ Xraw = 10792.00 Yraw = 10724.00 Zraw = 13540.00
+
+ Xnorm = 5.76 Ynorm = 7.10 Znorm = 9.98
+
+ Xraw = 7440.00 Yraw = 10168.00 Zraw = 12888.00
+
+ Xnorm = 4.28 Ynorm = 6.48 Znorm = 7.79
+
+ Xraw = 7148.00 Yraw = 10576.00 Zraw = 12032.00
+
+ Xnorm = 4.31 Ynorm = 6.36 Znorm = 7.56
+
+ Xraw = 7460.00 Yraw = 11020.00 Zraw = 12024.00
+
+ Xnorm = 4.56 Ynorm = 6.56 Znorm = 7.01
+
+ Xraw = 7700.00 Yraw = 10440.00 Zraw = 12864.00
+
+ Xnorm = 4.20 Ynorm = 6.28 Znorm = 7.75
+
+ Xraw = 7292.00 Yraw = 10128.00 Zraw = 14040.00
+
+ Xnorm = 4.11 Ynorm = 6.19 Znorm = 8.65
+
+ Xraw = 6208.00 Yraw = 10408.00 Zraw = 15008.00
+
+ Xnorm = 3.60 Ynorm = 6.17 Znorm = 9.04
+
+ Xraw = 6236.00 Yraw = 9964.00 Zraw = 14768.00
+
+ Xnorm = 3.76 Ynorm = 5.90 Znorm = 8.81
+
+ Xraw = 5936.00 Yraw = 10480.00 Zraw = 14384.00
+
+ Xnorm = 3.59 Ynorm = 6.24 Znorm = 8.31
+
+ Xraw = 5612.00 Yraw = 11484.00 Zraw = 12840.00
+
+ Xnorm = 3.68 Ynorm = 6.92 Znorm = 8.22
+
+ Xraw = 4476.00 Yraw = 12580.00 Zraw = 13664.00
+
+ Xnorm = 1.96 Ynorm = 7.24 Znorm = 7.54
+
+ Xraw = 7328.00 Yraw = 12300.00 Zraw = 10060.00
+
+ Xnorm = 3.71 Ynorm = 7.32 Znorm = 6.53
+
+ Xraw = 9148.00 Yraw = 14052.00 Zraw = 11404.00
+
+ Xnorm = 5.02 Ynorm = 7.97 Znorm = 7.39
+
+ Xraw = 8540.00 Yraw = 11964.00 Zraw = 11336.00
+
+ Xnorm = 4.98 Ynorm = 7.31 Znorm = 6.79
+
+ Xraw = 8512.00 Yraw = 12492.00 Zraw = 6836.00
+
+ Xnorm = 5.18 Ynorm = 7.49 Znorm = 4.02
+
+ Xraw = 9480.00 Yraw = 13748.00 Zraw = 6752.00
+
+ Xnorm = 5.16 Ynorm = 8.47 Znorm = 4.06
+
+ Xraw = 10708.00 Yraw = 15180.00 Zraw = 6452.00
+
+ Xnorm = 5.75 Ynorm = 8.84 Znorm = 3.36
+
+ Xraw = 9776.00 Yraw = 15628.00 Zraw = 4976.00
+
+ Xnorm = 6.24 Ynorm = 8.87 Znorm = 3.78
+
+ Xraw = 10512.00 Yraw = 16500.00 Zraw = 6148.00
+
+ Xnorm = 6.29 Ynorm = 9.87 Znorm = 3.68
+
+ Xraw = 9364.00 Yraw = 16456.00 Zraw = 4768.00
+
+ Xnorm = 5.78 Ynorm = 9.75 Znorm = 1.32
+
+ Xraw = 10976.00 Yraw = 12556.00 Zraw = 2020.00
+
+ Xnorm = 6.45 Ynorm = 7.74 Znorm = 1.85
+
+ Xraw = 10940.00 Yraw = 13500.00 Zraw = 3200.00
+
+ Xnorm = 7.25 Ynorm = 7.83 Znorm = 0.30
+
+ Xraw = 10872.00 Yraw = 15948.00 Zraw = -1124.00
+
+ Xnorm = 6.53 Ynorm = 9.50 Znorm = -0.46
+
+ Xraw = 14552.00 Yraw = 14512.00 Zraw = 1300.00
+
+ Xnorm = 8.90 Ynorm = 8.47 Znorm = 1.11
+
+ Xraw = 13408.00 Yraw = 16188.00 Zraw = 1672.00
+
+ Xnorm = 7.05 Ynorm = 9.75 Znorm = 0.80
+
+ Xraw = 11388.00 Yraw = 14892.00 Zraw = 936.00
+
+ Xnorm = 6.81 Ynorm = 8.91 Znorm = 0.56
+
+ Xraw = 8740.00 Yraw = 12392.00 Zraw = -2188.00
+
+ Xnorm = 5.24 Ynorm = 7.36 Znorm = -1.42
+
+ Xraw = 10756.00 Yraw = 8380.00 Zraw = -3964.00
+
+ Xnorm = 6.53 Ynorm = 5.40 Znorm = -2.40
+
+ Xraw = 10840.00 Yraw = 8308.00 Zraw = -5960.00
+
+ Xnorm = 6.79 Ynorm = 4.77 Znorm = -3.56
+
+ Xraw = 9400.00 Yraw = 8156.00 Zraw = -3540.00
+
+ Xnorm = 5.73 Ynorm = 4.67 Znorm = -1.79
+
+ Xraw = 6920.00 Yraw = 9340.00 Zraw = -4328.00
+
+ Xnorm = 3.91 Ynorm = 5.50 Znorm = -2.90
+
+ Xraw = 5780.00 Yraw = 7508.00 Zraw = -7300.00
+
+ Xnorm = 3.48 Ynorm = 4.40 Znorm = -4.52
+
+ Xraw = 6312.00 Yraw = 6024.00 Zraw = -8604.00
+
+ Xnorm = 3.64 Ynorm = 3.72 Znorm = -5.24
+
+ Xraw = 7096.00 Yraw = 5184.00 Zraw = -8024.00
+
+ Xnorm = 4.29 Ynorm = 3.10 Znorm = -4.77
+
+ Xraw = 7824.00 Yraw = 4880.00 Zraw = -8172.00
+
+ Xnorm = 4.71 Ynorm = 2.90 Znorm = -4.91
+
+ Xraw = 8188.00 Yraw = 5696.00 Zraw = -8424.00
+
+ Xnorm = 4.73 Ynorm = 3.43 Znorm = -5.39
+
+ Xraw = 7712.00 Yraw = 6220.00 Zraw = -7340.00
+
+ Xnorm = 4.63 Ynorm = 3.73 Znorm = -4.37
+
+ Xraw = 6960.00 Yraw = 7984.00 Zraw = -9160.00
+
+ Xnorm = 4.56 Ynorm = 4.06 Znorm = -5.31
+
+ Xraw = 8512.00 Yraw = 6176.00 Zraw = -6940.00
+
+ Xnorm = 4.91 Ynorm = 3.60 Znorm = -3.96
+
+ Xraw = 8780.00 Yraw = 7128.00 Zraw = -5372.00
+
+ Xnorm = 5.18 Ynorm = 4.11 Znorm = -3.26
+
+ Xraw = 8176.00 Yraw = 6716.00 Zraw = -6404.00
+
+ Xnorm = 4.97 Ynorm = 3.91 Znorm = -3.92
+
+ Xraw = 8168.00 Yraw = 7608.00 Zraw = -5064.00
+
+ Xnorm = 4.77 Ynorm = 4.55 Znorm = -2.93
+
+ Xraw = 8520.00 Yraw = 9148.00 Zraw = -1864.00
+
+ Xnorm = 5.17 Ynorm = 5.52 Znorm = -1.15
+
+ Xraw = 9160.00 Yraw = 9272.00 Zraw = 236.00
+
+ Xnorm = 5.53 Ynorm = 5.51 Znorm = 0.16
+
+ Xraw = 10524.00 Yraw = 8924.00 Zraw = 1232.00
+
+ Xnorm = 6.56 Ynorm = 5.24 Znorm = 0.75
+
+ Xraw = 11620.00 Yraw = 8520.00 Zraw = -2116.00
+
+ Xnorm = 6.89 Ynorm = 5.16 Znorm = -1.19
+
+ Xraw = 14724.00 Yraw = 12556.00 Zraw = 480.00
+
+ Xnorm = 8.70 Ynorm = 7.68 Znorm = 0.57
+
+ Xraw = 10592.00 Yraw = 16212.00 Zraw = -692.00
+
+ Xnorm = 6.30 Ynorm = 9.70 Znorm = 0.08
+
+ Xraw = 5344.00 Yraw = 17880.00 Zraw = -1436.00
+
+ Xnorm = 2.84 Ynorm = 11.02 Znorm = -0.94
+
+ Xraw = 8596.00 Yraw = 17976.00 Zraw = 3112.00
+
+ Xnorm = 5.23 Ynorm = 10.62 Znorm = 2.06
+
+ Xraw = 8088.00 Yraw = 17424.00 Zraw = 5416.00
+
+ Xnorm = 4.66 Ynorm = 10.32 Znorm = 3.42
+
+ Xraw = 7948.00 Yraw = 16080.00 Zraw = 2556.00
+
+ Xnorm = 3.91 Ynorm = 11.21 Znorm = 3.78
+
+ Xraw = 9268.00 Yraw = 19868.00 Zraw = 8672.00
+
+ Xnorm = 5.91 Ynorm = 11.73 Znorm = 5.32
+
+ Xraw = 3904.00 Yraw = 21376.00 Zraw = 9844.00
+
+ Xnorm = 3.19 Ynorm = 12.11 Znorm = 3.99
+
+ Xraw = 7584.00 Yraw = 20348.00 Zraw = 9128.00
+
+ Xnorm = 3.97 Ynorm = 11.89 Znorm = 5.40
+
+ Xraw = 6180.00 Yraw = 17636.00 Zraw = 7068.00
+
+ Xnorm = 3.70 Ynorm = 10.55 Znorm = 4.23
+
+ Xraw = 8616.00 Yraw = 16704.00 Zraw = 7672.00
+
+ Xnorm = 3.53 Ynorm = 9.58 Znorm = 5.13
+
+ Xraw = 7096.00 Yraw = 12928.00 Zraw = 6736.00
+
+ Xnorm = 4.58 Ynorm = 7.69 Znorm = 3.28
+
+ Xraw = 5820.00 Yraw = 12308.00 Zraw = 5528.00
+
+ Xnorm = 3.45 Ynorm = 7.49 Znorm = 4.57
+
+ Xraw = 7448.00 Yraw = 11840.00 Zraw = 7568.00
+
+ Xnorm = 4.82 Ynorm = 6.92 Znorm = 4.79
+
+ Xraw = 9488.00 Yraw = 11752.00 Zraw = 7896.00
+
+ Xnorm = 5.99 Ynorm = 7.12 Znorm = 4.65
+
+ Xraw = 9316.00 Yraw = 11776.00 Zraw = 6936.00
+
+ Xnorm = 5.52 Ynorm = 7.14 Znorm = 4.31
+
+ Xraw = 8684.00 Yraw = 11792.00 Zraw = 6664.00
+
+ Xnorm = 5.41 Ynorm = 7.11 Znorm = 4.34
+
+ Xraw = 8852.00 Yraw = 11676.00 Zraw = 6736.00
+
+ Xnorm = 5.18 Ynorm = 6.98 Znorm = 3.99
+
+ Xraw = 8348.00 Yraw = 12556.00 Zraw = 6088.00
+
+ Xnorm = 5.03 Ynorm = 7.60 Znorm = 3.54
+
+ Xraw = 8344.00 Yraw = 13392.00 Zraw = 6820.00
+
+ Xnorm = 4.91 Ynorm = 8.08 Znorm = 4.15
+
+ Xraw = 7428.00 Yraw = 14176.00 Zraw = 8456.00
+
+ Xnorm = 4.29 Ynorm = 8.52 Znorm = 4.99
+
+ Xraw = 6312.00 Yraw = 14200.00 Zraw = 9332.00
+
+ Xnorm = 3.83 Ynorm = 8.54 Znorm = 5.48
+
+ Xraw = 6000.00 Yraw = 13732.00 Zraw = 9596.00
+
+ Xnorm = 3.35 Ynorm = 8.05 Znorm = 5.84
+
+ Xraw = 5736.00 Yraw = 12496.00 Zraw = 10068.00
+
+ Xnorm = 3.43 Ynorm = 7.65 Znorm = 6.08
+
+ Xraw = 6412.00 Yraw = 12512.00 Zraw = 10360.00
+
+ Xnorm = 3.73 Ynorm = 7.49 Znorm = 6.11
+
+ Xraw = 6848.00 Yraw = 13568.00 Zraw = 10788.00
+
+ Xnorm = 4.17 Ynorm = 8.25 Znorm = 6.48
+
+ Xraw = 7772.00 Yraw = 14528.00 Zraw = 10656.00
+
+ Xnorm = 4.47 Ynorm = 8.85 Znorm = 5.88
+
+ Xraw = 7372.00 Yraw = 14340.00 Zraw = 10396.00
+
+ Xnorm = 4.38 Ynorm = 8.54 Znorm = 6.30
+
+ Xraw = 7828.00 Yraw = 14364.00 Zraw = 8000.00
+
+ Xnorm = 4.83 Ynorm = 8.11 Znorm = 5.63
+
+ Xraw = 7988.00 Yraw = 13364.00 Zraw = 7776.00
+
+ Xnorm = 5.19 Ynorm = 7.17 Znorm = 5.05
+
+ Xraw = 8224.00 Yraw = 13164.00 Zraw = 5824.00
+
+ Xnorm = 4.88 Ynorm = 7.93 Znorm = 3.42
+
+ Xraw = 9076.00 Yraw = 11964.00 Zraw = 5216.00
+
+ Xnorm = 5.45 Ynorm = 7.13 Znorm = 2.61
+
+ Xraw = 9404.00 Yraw = 12920.00 Zraw = 4468.00
+
+ Xnorm = 5.54 Ynorm = 7.81 Znorm = 2.62
+
+ Xraw = 8964.00 Yraw = 13468.00 Zraw = 4240.00
+
+ Xnorm = 5.51 Ynorm = 8.10 Znorm = 2.49
+
+ Xraw = 9336.00 Yraw = 13588.00 Zraw = 4192.00
+
+ Xnorm = 5.58 Ynorm = 8.13 Znorm = 2.51
+
+ Xraw = 8816.00 Yraw = 13360.00 Zraw = 3144.00
+
+ Xnorm = 6.02 Ynorm = 7.88 Znorm = 2.38
+
+ Xraw = 9544.00 Yraw = 14152.00 Zraw = 3564.00
+
+ Xnorm = 5.87 Ynorm = 7.89 Znorm = 0.96
+
+ Xraw = 10460.00 Yraw = 13672.00 Zraw = 1640.00
+
+ Xnorm = 6.38 Ynorm = 8.21 Znorm = 0.82
+
+ Xraw = 11260.00 Yraw = 13396.00 Zraw = 1232.00
+
+ Xnorm = 6.79 Ynorm = 8.41 Znorm = 1.40
+
+ Xraw = 11568.00 Yraw = 13368.00 Zraw = 1448.00
+
+ Xnorm = 6.77 Ynorm = 7.81 Znorm = 0.53
+
+ Xraw = 11208.00 Yraw = 13536.00 Zraw = 140.00
+
+ Xnorm = 7.14 Ynorm = 8.23 Znorm = 0.30
+
+ Xraw = 11788.00 Yraw = 12380.00 Zraw = -1648.00
+
+ Xnorm = 7.16 Ynorm = 7.58 Znorm = -0.88
+
+ Xraw = 13408.00 Yraw = 12720.00 Zraw = -1952.00
+
+ Xnorm = 7.90 Ynorm = 7.82 Znorm = -1.09
+
+ Xraw = 14700.00 Yraw = 13068.00 Zraw = 380.00
+
+ Xnorm = 9.76 Ynorm = 7.90 Znorm = -0.73
+
+ Xraw = 15356.00 Yraw = 11972.00 Zraw = -200.00
+
+ Xnorm = 9.09 Ynorm = 7.19 Znorm = -0.11
+
+ Xraw = 16096.00 Yraw = 11056.00 Zraw = -2092.00
+
+ Xnorm = 8.53 Ynorm = 6.94 Znorm = -0.61
+
+ Xraw = 16120.00 Yraw = 9752.00 Zraw = -2400.00
+
+ Xnorm = 9.57 Ynorm = 6.48 Znorm = -1.34
+
+ Xraw = 16976.00 Yraw = 8884.00 Zraw = -4728.00
+
+ Xnorm = 10.24 Ynorm = 5.18 Znorm = -2.95
+
+ Xraw = 17652.00 Yraw = 9396.00 Zraw = -3564.00
+
+ Xnorm = 10.74 Ynorm = 5.73 Znorm = -2.45
+
+ Xraw = 17880.00 Yraw = 10024.00 Zraw = 404.00
+
+ Xnorm = 10.81 Ynorm = 6.10 Znorm = 0.31
+
+ Xraw = 15564.00 Yraw = 9156.00 Zraw = -1504.00
