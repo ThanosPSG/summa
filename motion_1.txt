@@ -20,7 +20,7 @@ Xraw = -5144.00 Yraw = 9544.00 Zraw = 12660.00
  Xnorm = -3.72 Ynorm = 6.00 Znorm = 7.71
  Xraw = -5932.00 Yraw = 10288.00 Zraw = 12904.00
  Xnorm = -3.59 Ynorm = 6.17 Znorm = 7.76
- Xraw = -6048.00 Yraw = 10128.00 Zraw = 12744.00
+ Xraw = -6148.00 Yraw = 10128.00 Zraw = 12744.00
  Xnorm = -3.69 Ynorm = 6.04 Znorm = 7.61
  Xraw = -6104.00 Yraw = 9828.00 Zraw = 12732.00
  Xnorm = -3.64 Ynorm = 5.89 Znorm = 7.67
